@@ -1,0 +1,35 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+body,html {
+    height: 100%;
+}
+main {
+    max-width: 1000px;
+    min-width: 300px;
+    margin: auto;
+    line-height: 2em;
+    font-size: 1.1em;
+}
+
+footer {
+    text-align: center;
+    color: rgb(32, 32, 32);
+    padding: 15px;
+
+}
+.card img {
+    width: 50px;
+    height: 50px;
+    margin-top:10px ;
+    margin: auto;
+} 
+footer p {
+    margin: 4px;
+}
